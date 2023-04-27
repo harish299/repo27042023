@@ -6,3 +6,6 @@ for(int i=0;i<length;i++)
 this is updated one
 to push to remote repository
 successfully
+this is updated one 
+pulled from remote repository
+successfully
